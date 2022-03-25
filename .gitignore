@@ -1,0 +1,5 @@
+*.exe
+*.pak
+*.zip
+.DS_Store
+*.local
